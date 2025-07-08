@@ -9,11 +9,11 @@
 
 ### 🌱 About Me
 
-- 🎓 Biotechnology graduate from Chandigarh University (Class of 2024), passionate about solving biological problems using computational approaches.
-- 🤖 Skilled in Python, R, Machine Learning, Deep Learning (CNN, U-Net), and Bioinformatics tools.
-- 🧪 Hands-on experience in medical image segmentation, meta-analysis, data analytics, and molecular docking simulations.
-- 🏅 Published researcher with an interest in health data science.
-- 🎨 Canvas artist — I create customized Buddha meditation paintings in my free time!
+- Biotechnology graduate from Chandigarh University (Class of 2024), passionate about solving biological problems using computational approaches.
+- Skilled in Python, R, Machine Learning, Deep Learning (CNN, U-Net), and Bioinformatics tools.
+- Hands-on experience in medical image segmentation, meta-analysis, data analytics, and molecular docking simulations.
+- Published researcher with an interest in health data science.
+- Canvas artist — I create customized Buddha meditation paintings in my free time!
 
 ---
 
@@ -37,26 +37,26 @@
 
 ### 🚀 Projects & Research Highlights
 
-- 🧠 **Medical Image Segmentation using U-Net (IISc, 2024)**  
+- **Medical Image Segmentation using U-Net (IISc, 2024)**  
   Applied U-Net architecture for semantic segmentation of medical images in a deep learning project at IISc Bangalore.
 
-- 🧬 **Meta-Analysis on Extent of Resection & Survival in Glioblastoma**  
+- **Meta-Analysis on Extent of Resection & Survival in Glioblastoma**  
   Conducted systematic literature review and statistical meta-analysis to correlate surgical resection extent with survival.
 
-- 🩺 **COVID-19 Impact on Early Onset of PCOS/PCOD in Young Women**  
+- **COVID-19 Impact on Early Onset of PCOS/PCOD in Young Women**  
   R-based analysis of survey data examining post-COVID trends in PCOS onset and contributing factors.
 
-- 🔬 **In-silico Mutagenesis & Docking of Alcohol Oxidase from *Aspergillus terreus***  
+- **In-silico Mutagenesis & Docking of Alcohol Oxidase from *Aspergillus terreus***  
   Modeled and mutated active site residue His-571, followed by molecular docking simulation for activity prediction.
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 50% Merit Scholarship (2020–2024)
-- 🥇 1st Prize – Oral Presentation (International Conference, 2023)
-- 🖼️ 1st Prize – Poster Making (Dept. of Forest & Wildlife, 2022)
-- 🎤 1st Position – Western Singing (Pratibha Talent Hunt, 2020)
+- 50% Merit Scholarship (2020–2024)
+- 1st Prize – Oral Presentation (International Conference, 2023)
+- 1st Prize – Poster Making (Dept. of Forest & Wildlife, 2022)
+- 1st Position – Western Singing (Pratibha Talent Hunt, 2020)
 
 ---
 
@@ -69,7 +69,7 @@
 
 ### 🎨 Fun Fact
 
-When I’m not working with data or reading research, I’m most likely painting meditation-themed Buddha canvases or experimenting in the kitchen!
+When I’m not working with data or reading research, I’m most likely painting meditation-themed Buddha canvases!
 
 ---
 
