@@ -75,7 +75,7 @@ When I’m not working with data or reading research, I’m most likely painting
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaskirat-kaur-sohal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaskiratkaursohal/)
 
 ---
 
